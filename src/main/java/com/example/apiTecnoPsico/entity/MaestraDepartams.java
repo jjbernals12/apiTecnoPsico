@@ -19,11 +19,6 @@ public class MaestraDepartams {
     @Column(nullable = false, length = 50)
     private String dpto;
 
-    @Column(name = "created_at")
-    private LocalDateTime createdAt;
-
-    @Column(name = "updated_at")
-    private LocalDateTime updatedAt;
 
     public Long getId() {
         return id;

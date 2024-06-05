@@ -20,12 +20,6 @@ public class MaestraGrupserv {
     @Column(nullable = false, length = 70)
     private String nombre;
 
-    @Column(name = "created_at")
-    private LocalDateTime createdAt;
-
-    @Column(name = "updated_at")
-    private LocalDateTime updatedAt;
-
     public Long getId() {
         return id;
     }

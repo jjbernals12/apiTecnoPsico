@@ -53,11 +53,6 @@ public class AdmonConceconts {
     @Column(length = 14)
     private String ivalmac;
 
-    @Column(name = "created_at")
-    private LocalDateTime createdAt;
-
-    @Column(name = "updated_at")
-    private LocalDateTime updatedAt;
 
     public Long getId() {
         return id;

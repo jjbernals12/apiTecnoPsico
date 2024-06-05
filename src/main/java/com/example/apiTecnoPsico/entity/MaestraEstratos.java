@@ -19,12 +19,6 @@ public class MaestraEstratos {
     @Column(nullable = false, length = 40)
     private String estrato;
 
-    @Column(name = "created_at")
-    private LocalDateTime createdAt;
-
-    @Column(name = "updated_at")
-    private LocalDateTime updatedAt;
-
     public Long getId() {
         return id;
     }

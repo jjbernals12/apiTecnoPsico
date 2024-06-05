@@ -29,12 +29,6 @@ public class SaludCies {
     @Column(name = "edadmax")
     private Integer edadMax;
 
-    @Column(name = "created_at")
-    private LocalDateTime createdAt;
-
-    @Column(name = "updated_at")
-    private LocalDateTime updatedAt;
-
     public Long getId() {
         return id;
     }
