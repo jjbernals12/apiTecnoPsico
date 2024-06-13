@@ -24,6 +24,7 @@ C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTe
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\service\SieParamsServiceImpl.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\entity\SaludHisplanti.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\service\MaestraDocumensServiceImpl.java
+C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\controller\MaestraOcupacsController.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\repository\MaestraTipovincsRepository.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\entity\SaludHiselem.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\service\MaestraOcupacsServiceImpl.java
@@ -70,6 +71,7 @@ C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTe
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\entity\MaestraTipovincs.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\exception\advice\MaestraEstratosNotFoundExceptionAdvice.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\repository\AdmonConcecontsRepository.java
+C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\controller\SieparamsController.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\exception\advice\MaestraEpsNotFoundExceptionAdvice.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\exception\SaludManualesNotFoundException.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\exception\MaestraEstratosNotFoundException.java
@@ -83,6 +85,7 @@ C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTe
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\exception\MaestraEpsNotFoundException.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\service\MaestraEspecialService.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\service\MaestraOcupacsService.java
+C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\controller\MaestraEstratosController.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\service\SaludCiesService.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\repository\MaestraOcupacsRepository.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\entity\SaludCies.java
