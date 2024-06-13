@@ -31,6 +31,7 @@ com\example\apiTecnoPsico\exception\advice\SieparamsNotFoundExceptionAdvice.clas
 com\example\apiTecnoPsico\entity\AdmonConceconts.class
 com\example\apiTecnoPsico\exception\advice\MaestraGrupservNotFoundExceptionAdvice.class
 com\example\apiTecnoPsico\service\SaludCupscapisServiceImpl.class
+com\example\apiTecnoPsico\entity\Faseaten.class
 com\example\apiTecnoPsico\service\MaestraEspecialService.class
 com\example\apiTecnoPsico\entity\Sieparams.class
 com\example\apiTecnoPsico\repository\MaestraTipovincsRepository.class
@@ -45,6 +46,7 @@ com\example\apiTecnoPsico\exception\advice\SaludCiesNotFoundExceptionAdvice.clas
 com\example\apiTecnoPsico\exception\MaestraEspecialNotFoundException.class
 com\example\apiTecnoPsico\service\MaestraEstratosService.class
 com\example\apiTecnoPsico\exception\advice\SaludHiselemNotFoundExceptionAdvice.class
+com\example\apiTecnoPsico\controller\FaseatenController.class
 com\example\apiTecnoPsico\repository\MaestraDocumensRepository.class
 com\example\apiTecnoPsico\entity\MaestraTipovincs.class
 com\example\apiTecnoPsico\service\SaludCupscapisService.class
@@ -80,7 +82,9 @@ com\example\apiTecnoPsico\exception\advice\MaestraEstratosNotFoundExceptionAdvic
 com\example\apiTecnoPsico\service\MaestraTipovincsService.class
 com\example\apiTecnoPsico\exception\MaestraEpsNotFoundException.class
 com\example\apiTecnoPsico\repository\SaludCupscapisRepository.class
+com\example\apiTecnoPsico\service\FaseatenService.class
 com\example\apiTecnoPsico\exception\advice\MaestraDepartamsNotFoundExceptionAdvice.class
+com\example\apiTecnoPsico\repository\FaseatenRepository.class
 com\example\apiTecnoPsico\service\AdmonConcecontsService.class
 com\example\apiTecnoPsico\controller\MaestraEstratosController.class
 com\example\apiTecnoPsico\ApiTecnoPsicoApplication.class
@@ -90,6 +94,7 @@ com\example\apiTecnoPsico\exception\MaestraOcupacsNotFoundException.class
 com\example\apiTecnoPsico\controller\MaestraDepartamsController.class
 com\example\apiTecnoPsico\repository\SieparamsRepository.class
 com\example\apiTecnoPsico\service\SieParamsServiceImpl.class
+com\example\apiTecnoPsico\service\FaseatenServiceImpl.class
 com\example\apiTecnoPsico\entity\MaestraGrupserv.class
 com\example\apiTecnoPsico\entity\SaludHisplanti.class
 com\example\apiTecnoPsico\repository\MaestraOcupacsRepository.class
