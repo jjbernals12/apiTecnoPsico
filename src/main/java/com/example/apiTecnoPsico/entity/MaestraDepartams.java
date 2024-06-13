@@ -12,13 +12,17 @@ public class MaestraDepartams {
     @Id
     @Column(length = 20)
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
-    @Column(nullable = false, length = 2)
-    private String codigo;
+    public Long id;
+
+    @Column(nullable = false, length = 2, unique = true)
+    public String codigo;
 
     @Column(nullable = false, length = 50)
-    private String dpto;
+    public String dpto;
 
+    public String getCodigo() {
+        return codigo;
+    }
 
     public Long getId() {
         return id;

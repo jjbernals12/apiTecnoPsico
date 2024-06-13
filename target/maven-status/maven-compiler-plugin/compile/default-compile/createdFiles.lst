@@ -1,6 +1,7 @@
 com\example\apiTecnoPsico\exception\advice\SaludCupscapisNotFoundExceptionAdvice.class
 com\example\apiTecnoPsico\controller\SieparamsController.class
 com\example\apiTecnoPsico\service\SaludManualesServiceImpl.class
+com\example\apiTecnoPsico\service\MaestraMunicipiosServiceImpl.class
 com\example\apiTecnoPsico\service\MaestraGrupservServiceImpl.class
 com\example\apiTecnoPsico\entity\MaestraDocumens.class
 com\example\apiTecnoPsico\exception\SaludCiesNotFoundException.class
@@ -47,11 +48,13 @@ com\example\apiTecnoPsico\exception\MaestraEspecialNotFoundException.class
 com\example\apiTecnoPsico\service\MaestraEstratosService.class
 com\example\apiTecnoPsico\exception\advice\SaludHiselemNotFoundExceptionAdvice.class
 com\example\apiTecnoPsico\controller\FaseatenController.class
+com\example\apiTecnoPsico\service\MaestraMunicipiosService.class
 com\example\apiTecnoPsico\repository\MaestraDocumensRepository.class
 com\example\apiTecnoPsico\entity\MaestraTipovincs.class
 com\example\apiTecnoPsico\service\SaludCupscapisService.class
 com\example\apiTecnoPsico\service\SieParamsService.class
 com\example\apiTecnoPsico\exception\advice\MaestraEspecialNotFoundExceptionAdvice.class
+com\example\apiTecnoPsico\repository\MaestraMunicipiosRepository.class
 com\example\apiTecnoPsico\repository\SaludHisplantiRepository.class
 com\example\apiTecnoPsico\exception\advice\SaludManualesNotFoundExceptionAdvice.class
 com\example\apiTecnoPsico\service\MaestraOcupacsServiceImpl.class
@@ -60,6 +63,7 @@ com\example\apiTecnoPsico\exception\SaludCupscapisNotFoundException.class
 com\example\apiTecnoPsico\repository\MaestraEstratosRepository.class
 com\example\apiTecnoPsico\exception\AdmonConcecontsNotFoundException.class
 com\example\apiTecnoPsico\repository\AdmonConcecontsRepository.class
+com\example\apiTecnoPsico\entity\MaestraMunicipios.class
 com\example\apiTecnoPsico\exception\advice\MaestraOcupacsNotFoundExceptionAdvice.class
 com\example\apiTecnoPsico\service\MaestraDepartamsServiceImpl.class
 com\example\apiTecnoPsico\service\MaestraEspecialServiceImpl.class
@@ -94,6 +98,7 @@ com\example\apiTecnoPsico\exception\MaestraOcupacsNotFoundException.class
 com\example\apiTecnoPsico\controller\MaestraDepartamsController.class
 com\example\apiTecnoPsico\repository\SieparamsRepository.class
 com\example\apiTecnoPsico\service\SieParamsServiceImpl.class
+com\example\apiTecnoPsico\controller\MaestraMunicipiosController.class
 com\example\apiTecnoPsico\service\FaseatenServiceImpl.class
 com\example\apiTecnoPsico\entity\MaestraGrupserv.class
 com\example\apiTecnoPsico\entity\SaludHisplanti.class
