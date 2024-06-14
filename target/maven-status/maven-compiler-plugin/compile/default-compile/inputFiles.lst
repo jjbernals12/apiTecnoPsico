@@ -14,6 +14,7 @@ C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTe
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\service\SieParamsServiceImpl.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\entity\SaludHisplanti.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\service\MaestraDocumensServiceImpl.java
+C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\service\MaestraTipoatenServiceImpl.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\repository\MaestraDepartamsRepository.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\repository\SieparamsRepository.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\controller\MaestraMunicipiosController.java
@@ -28,12 +29,15 @@ C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTe
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\exception\MaestraDepartamsNotFoundException.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\exception\MaestraDocumensNotFoundException.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\exception\MaestraEspecialNotFoundException.java
+C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\controller\MaestraTipoatenController.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\service\MaestraEpsServiceImpl.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\service\MaestraMunicipiosService.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\controller\MaestraDepartamsController.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\exception\advice\MaestraDepartamsNotFoundExceptionAdvice.java
+C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\service\MaestraTipoatenService.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\exception\advice\SaludCupscapisNotFoundExceptionAdvice.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\repository\MaestraMunicipiosRepository.java
+C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\entity\MaestraTipoaten.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\repository\AdmonConcecontsRepository.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\controller\SieparamsController.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\exception\SaludManualesNotFoundException.java
@@ -63,6 +67,7 @@ C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTe
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\entity\MaestraMunicipios.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\service\SaludCupscapisServiceImpl.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\service\MaestraGrupservServiceImpl.java
+C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\repository\MaestraTipoatenRepository.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\entity\MaestraOcupacs.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\repository\MaestraEpsRepository.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\repository\FaseatenRepository.java

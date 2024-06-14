@@ -10,6 +10,7 @@ com\example\apiTecnoPsico\service\MaestraDocumensService.class
 com\example\apiTecnoPsico\entity\MaestraEspecial.class
 com\example\apiTecnoPsico\entity\SaludHiselem.class
 com\example\apiTecnoPsico\service\SaludHiselemServiceImpl.class
+com\example\apiTecnoPsico\service\MaestraTipoatenService.class
 com\example\apiTecnoPsico\service\SaludHisplantiServiceImpl.class
 com\example\apiTecnoPsico\entity\MaestraEps.class
 com\example\apiTecnoPsico\repository\MaestraGrupservRepository.class
@@ -64,7 +65,10 @@ com\example\apiTecnoPsico\repository\MaestraEstratosRepository.class
 com\example\apiTecnoPsico\exception\AdmonConcecontsNotFoundException.class
 com\example\apiTecnoPsico\repository\AdmonConcecontsRepository.class
 com\example\apiTecnoPsico\entity\MaestraMunicipios.class
+com\example\apiTecnoPsico\controller\MaestraTipoatenController.class
 com\example\apiTecnoPsico\exception\advice\MaestraOcupacsNotFoundExceptionAdvice.class
+com\example\apiTecnoPsico\service\MaestraTipoatenServiceImpl.class
+com\example\apiTecnoPsico\repository\MaestraTipoatenRepository.class
 com\example\apiTecnoPsico\service\MaestraDepartamsServiceImpl.class
 com\example\apiTecnoPsico\service\MaestraEspecialServiceImpl.class
 com\example\apiTecnoPsico\service\MaestraDepartamsService.class
@@ -101,6 +105,7 @@ com\example\apiTecnoPsico\service\SieParamsServiceImpl.class
 com\example\apiTecnoPsico\controller\MaestraMunicipiosController.class
 com\example\apiTecnoPsico\service\FaseatenServiceImpl.class
 com\example\apiTecnoPsico\entity\MaestraGrupserv.class
+com\example\apiTecnoPsico\entity\MaestraTipoaten.class
 com\example\apiTecnoPsico\entity\SaludHisplanti.class
 com\example\apiTecnoPsico\repository\MaestraOcupacsRepository.class
 com\example\apiTecnoPsico\exception\MaestraDocumensNotFoundException.class
