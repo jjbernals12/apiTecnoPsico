@@ -28,6 +28,7 @@ C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTe
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\entity\MaestraEps.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\exception\MaestraDepartamsNotFoundException.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\exception\MaestraDocumensNotFoundException.java
+C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\controller\MaestraTipovincsController.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\exception\MaestraEspecialNotFoundException.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\controller\MaestraTipoatenController.java
 C:\Users\John\Documents\TecnoPsico\apiTecnoPsico\src\main\java\com\example\apiTecnoPsico\service\MaestraEpsServiceImpl.java

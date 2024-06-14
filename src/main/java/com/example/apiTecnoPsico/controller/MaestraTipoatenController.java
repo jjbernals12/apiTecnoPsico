@@ -15,7 +15,6 @@ public class MaestraTipoatenController {
     public MaestraTipoatenController(MaestraTipoatenServiceImpl maestraTipoatenService) {
         this.maestraTipoatenService = maestraTipoatenService;
     }
-
     @GetMapping
     public List<MaestraTipoaten> getAllTipoaten(){ return maestraTipoatenService.getAllTipoaten(); }
 

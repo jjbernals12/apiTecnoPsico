@@ -41,6 +41,7 @@ com\example\apiTecnoPsico\exception\SaludHisplantiNotFoundException.class
 com\example\apiTecnoPsico\exception\advice\AdmonConcecontsNotFoundExceptionAdvice.class
 com\example\apiTecnoPsico\entity\SaludCupscapis.class
 com\example\apiTecnoPsico\configuration\CorsConfig$1.class
+com\example\apiTecnoPsico\controller\MaestraTipovincsController.class
 com\example\apiTecnoPsico\exception\advice\SaludHisplantiNotFoundExceptionAdvice.class
 com\example\apiTecnoPsico\repository\SaludHiselemRepository.class
 com\example\apiTecnoPsico\exception\SieparamsNotFoundException.class
