@@ -11,7 +11,7 @@ public class AdmonPais {
     @Column(length = 20)
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    @Column(nullable = false, length = 2)
+    @Column(nullable = false, length = 3)
     private String codigo;
     @Column(nullable = false, length = 20)
     private String pais;
