@@ -23,10 +23,10 @@ public class SaludCies {
     @Column(length = 1)
     private String sexo;
 
-    @Column(name = "edadmin")
+    @Column(name = "edadmin", length = 11)
     private Integer edadMin;
 
-    @Column(name = "edadmax")
+    @Column(name = "edadmax", length = 11)
     private Integer edadMax;
 
     public Long getId() {
