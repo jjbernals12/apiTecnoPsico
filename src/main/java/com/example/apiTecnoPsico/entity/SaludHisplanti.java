@@ -23,16 +23,16 @@ public class SaludHisplanti {
     @Column
     private String planti;
 
-    @Column(name = "tipoexa")
+    @Column(name = "tipoexa", length = 1)
     private String tipoExa;
 
-    @Column(name = "edadmin")
+    @Column(name = "edadmin", length = 11)
     private Integer edadMin;
 
-    @Column(name = "edadmax")
+    @Column(name = "edadmax", length = 11)
     private Integer edadMax;
 
-    @Column
+    @Column(name = "sexo",length = 1)
     private String sexo;
 
     public Long getId() {
