@@ -14,10 +14,10 @@ public class Sieparams {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(length = 40)
+    @Column(length = 100)
     private String empresa;
 
-    @Column(length = 60)
+    @Column(length = 120)
     private String direccion;
 
     @Column(length = 25)
