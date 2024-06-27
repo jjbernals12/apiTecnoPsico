@@ -25,8 +25,9 @@ public class MaestraEps {
     @Column(name = "no_identi", length = 15)
     private String noIdenti;
 
-    @Column(name = "idTercero")
-    private Long idTercero;
+    @OneToOne
+    @JoinColumn(name = "idtercero")
+    private AdmonClientes idTercero;
 
 
     public Long getId() {
