@@ -39,6 +39,8 @@ public class MaestraDocumens {
 
     @Column
     private Boolean facele;
+    @Column(name = "fecha")
+    private LocalDateTime fecha;
 
     public Long getId() {
         return id;
